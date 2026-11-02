@@ -1,0 +1,6 @@
+transaction_id,date,description,category,department,amount,payment_mode,status,reference_id,source_row_number,validation_issues,validation_status
+SAL001,2026-10-01,Website Development,Sales,IT,50000,Bank Transfer,Completed,REF001,2,,VALID
+SAL002,2026-10-02,Software Subscription,Sales,IT,25000,UPI,Completed,REF002,3,,VALID
+SAL003,2026-10-03,Consulting Services,Sales,Finance,40000,Bank Transfer,Completed,REF003,4,,VALID
+SAL004,2026-10-04,Cloud Services,Sales,IT,30000,UPI,Pending,REF004,5,,VALID
+SAL005,2026-10-05,Digital Marketing,Sales,Marketing,20000,Bank Transfer,Completed,REF005,6,,VALID

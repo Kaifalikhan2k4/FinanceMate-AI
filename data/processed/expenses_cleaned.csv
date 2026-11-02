@@ -1,0 +1,4 @@
+transaction_id,date,description,category,department,amount,payment_mode,status,reference_id,source_row_number
+EXP001,2026-10-01,Office Rent,Expense,Administration,30000,Bank Transfer,Completed,REF101,2
+EXP002,2026-10-02,Employee Salaries,Expense,HR,45000,Bank Transfer,Completed,REF102,3
+EXP003,2026-10-03,Office Supplies,Expense,Administration,15000,UPI,Completed,REF103,4

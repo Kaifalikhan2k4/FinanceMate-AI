@@ -1,0 +1,3 @@
+transaction_id,date,description,category,department,amount,payment_mode,status,reference_id,original_date,original_amount,source_row_number,issue_reasons
+EXP003,2026-10-03,Office Supplies,Expense,Administration,15000,UPI,Completed,REF103,2026-10-03,15000,5,Duplicate transaction ID
+EXP005,,Internet Bill,Expense,,-5000,Cash,Completed,REF105,not-a-date,-5000,6,Missing required value: date; Missing required value: department; Invalid date format; Negative transaction amount

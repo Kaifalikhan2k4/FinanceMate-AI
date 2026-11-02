@@ -1,0 +1,14 @@
+{
+    "total_reconciliation_results": 8,
+    "matched": 4,
+    "amount_discrepancies": 1,
+    "unmatched_bank_transactions": 1,
+    "unmatched_company_transactions": 2,
+    "other_issues": 0,
+    "status_counts": {
+        "MATCHED": 4,
+        "UNMATCHED_COMPANY_TRANSACTION": 2,
+        "AMOUNT_DISCREPANCY": 1,
+        "UNMATCHED_BANK_TRANSACTION": 1
+    }
+}

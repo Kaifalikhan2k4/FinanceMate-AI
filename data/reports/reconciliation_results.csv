@@ -1,0 +1,9 @@
+company_transaction_id,company_date,company_description,company_amount,reference_id,expected_bank_type,bank_transaction_id,bank_date,bank_description,bank_amount,bank_transaction_type,reconciliation_status,amount_difference
+SAL001,2026-10-01,Website Development,50000.0,REF001,Credit,BNK001,2026-10-01,Website Development Payment,50000.0,Credit,MATCHED,0.0
+SAL002,2026-10-02,Software Subscription,25000.0,REF002,Credit,BNK002,2026-10-02,Software Subscription Payment,25000.0,Credit,MATCHED,0.0
+SAL003,2026-10-03,Consulting Services,40000.0,REF003,Credit,,,,,,UNMATCHED_COMPANY_TRANSACTION,
+SAL005,2026-10-05,Digital Marketing,20000.0,REF005,Credit,,,,,,UNMATCHED_COMPANY_TRANSACTION,
+EXP001,2026-10-01,Office Rent,30000.0,REF101,Debit,BNK003,2026-10-01,Office Rent Payment,30000.0,Debit,MATCHED,0.0
+EXP002,2026-10-02,Employee Salaries,45000.0,REF102,Debit,BNK004,2026-10-02,Salary Payment,45000.0,Debit,MATCHED,0.0
+EXP003,2026-10-03,Office Supplies,15000.0,REF103,Debit,BNK005,2026-10-03,Office Supplies Payment,18000.0,Debit,AMOUNT_DISCREPANCY,3000.0
+,,,,REF999,,BNK006,2026-10-06,Unknown Bank Credit,12000.0,Credit,UNMATCHED_BANK_TRANSACTION,

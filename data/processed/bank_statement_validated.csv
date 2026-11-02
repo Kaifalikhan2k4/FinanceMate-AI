@@ -1,0 +1,7 @@
+bank_transaction_id,date,description,amount,transaction_type,reference_id,source_row_number,validation_issues,validation_status
+BNK001,2026-10-01,Website Development Payment,50000,Credit,REF001,2,,VALID
+BNK002,2026-10-02,Software Subscription Payment,25000,Credit,REF002,3,,VALID
+BNK003,2026-10-01,Office Rent Payment,30000,Debit,REF101,4,,VALID
+BNK004,2026-10-02,Salary Payment,45000,Debit,REF102,5,,VALID
+BNK005,2026-10-03,Office Supplies Payment,18000,Debit,REF103,6,,VALID
+BNK006,2026-10-06,Unknown Bank Credit,12000,Credit,REF999,7,,VALID

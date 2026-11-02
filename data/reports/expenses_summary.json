@@ -1,0 +1,13 @@
+{
+    "dataset": "expenses",
+    "total_records": 5,
+    "accepted_records": 3,
+    "rejected_records": 2,
+    "issue_counts": {
+        "Duplicate transaction ID": 1,
+        "Missing required value: date": 1,
+        "Missing required value: department": 1,
+        "Invalid date format": 1,
+        "Negative transaction amount": 1
+    }
+}
