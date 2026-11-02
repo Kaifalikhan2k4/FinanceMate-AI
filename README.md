@@ -314,6 +314,24 @@ Ask FinanceMate AI questions such as:
 
 ## 📈 Power BI Dashboard
 
+## 🖥️ Application Screenshots
+
+### FinanceMate AI — Financial Summary
+
+![Financial Summary](screenshots/streamlit_financial_summary.png)
+
+### FinanceMate AI — Audit Analysis
+
+![Audit Analysis](screenshots/streamlit_audit_analysis.png)
+
+### Power BI — Financial Overview
+
+![Financial Overview](screenshots/powerbi_financial_overview.png)
+
+### Power BI — Audit Details
+
+![Audit Details](screenshots/powerbi_audit_details.png)
+
 The Power BI dashboard includes:
 
 ### Financial Overview
